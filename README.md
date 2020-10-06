@@ -1,5 +1,17 @@
-### Hi 👋
+![capa_github_gabrielmelo](https://raw.githubusercontent.com/gabrielhmelo/gabrielhmelo/main/BannerGithub.png)
 
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhmelo&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielhmelo&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
+
+<!-- ### Hi there 👋 -->
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmelodev/)](https://www.linkedin.com/in/gabrielmelodev/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/gabrielhmelo)](https://dev.to/gabrielmelodev)
