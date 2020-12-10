@@ -1,14 +1,4 @@
-![capa_github_gabrielmelo](https://raw.githubusercontent.com/gabrielhmelo/gabrielhmelo/main/BannerGithub.png)
 
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhmelo&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielhmelo&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
 
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
