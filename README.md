@@ -14,7 +14,6 @@ I'm Gabriel Melo, a 20-year-old Brazilian software engineer and I'm passionate a
 
 More about me:
 - :department_store: I am currently founder and CEO [@pagbrax](https://github.com/pagbrax)
-- 😄 Pronouns: she/her
 - :star: 
 Curiosity: my favorite series are friends, Big Bang Theory,
 - 💬  Ask me about anything [here](https://github.com/gabrielhmelo/gabrielhmelo/issues)
