@@ -8,7 +8,9 @@
 )
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gabrielmelox@gmail.com)]
 
-## I'm Gabriel Melo, a 20-year-old Brazilian software engineer and I'm passionate about technology, communities and everything. I love to learn and contribute in all possible ways. I love astronomy and cars and a lot of work.
+I'm Gabriel Melo, a 20-year-old Brazilian software engineer and I'm passionate about technology, communities and everything. I love to learn and contribute in all possible ways. I love astronomy and cars and a lot of work.
+
+</br>
 
 More about me:
 - :company: I am currently founder and CEO [@pagbrax](https://github.com/pagbrax)
