@@ -6,7 +6,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14379465/gabrielmelodev)](https://stackoverflow.com/users/14379465/gabrielmelodev)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@gabrielmelodev)](https://medium.com/@gabrielmelodev
 )
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gabrielmelox@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gabrielmelox@gmail.com)
 
 I'm Gabriel Melo, a 20-year-old Brazilian software engineer and I'm passionate about technology, communities and everything. I love to learn and contribute in all possible ways. I love astronomy and cars and a lot of work.
 
