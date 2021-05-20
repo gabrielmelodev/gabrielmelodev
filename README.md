@@ -13,7 +13,7 @@ I'm Gabriel Melo, a 21-year-old Brazilian software engineer and I'm passionate a
 </br>
 
 More about me:
-- :department_store: I am currently founder and CEO [@foundbrax](https://github.com/foundbrax)
+- :department_store: I am currently founder and CEO [@goobrax](https://github.com/goobrax)
 - :star: 
 Curiosity: my favorite series are friends, Big Bang Theory,
 - 💬  Ask me about anything [here](https://github.com/gabrielhmelo/gabrielhmelo/issues)
