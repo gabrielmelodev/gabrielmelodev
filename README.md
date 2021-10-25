@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-👨‍💻 Currently building an open source theme - [FIGBLUE](https://FIGBLUE.com/) <br>
+👨‍💻 Currently building a free theme - [FIGBLUE](https://FIGBLUE.com/) <br>
 📚 Building new features in - [SEACLAX](https://seaclax.com)
 
 ### Find me elsewhere 🌎
