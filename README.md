@@ -8,8 +8,8 @@
 
 👨‍💻 Currently building a free theme - [FIGBLUE](https://FIGBLUE.com/) <br>
 📚 Building new features in - [SEACLAX](https://about.seaclax.com) <br>
-💻 Building a new support platform - [SIDDLEBASE](https://siddlebase.seaclax.com)
-
+💻 Building a new ui library- [EUROPA-UI](https://europaui.seaclax.com)
+ 
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://gabrielmelo.dev) <br>
