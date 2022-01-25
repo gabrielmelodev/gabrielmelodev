@@ -13,6 +13,6 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://gabrielmelo.dev) <br>
-🐦 [Twitter](https://twitter.com/gabrielmelohx) <br>
+🐦 [Twitter](https://twitter.com/gabrielmelodev) <br>
 📸 [Instagram](https://instagram.com/gabrielmelodev) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmelodev) <br>
