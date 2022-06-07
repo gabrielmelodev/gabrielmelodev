@@ -1,4 +1,4 @@
-### Hey, I'm Gabriel Melo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="14px"></h2>
+### Hey, I'm Gabriel Melo! 👋
 
 🤓 Founder and CEO [@seaclax](https://github.com/seaclax/) <br>
 🇧🇷 Born in Federal District, Brazil <br>
