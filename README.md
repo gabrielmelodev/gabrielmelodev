@@ -7,7 +7,7 @@
 ### What I'm working on 👨‍💻
 
 📚 Building new features in - [SEACLAX](https://about.seaclax.com) <br>
-💻 Building a new ui library- [Neptuno UI](https://neptuno.seaclax.com)
+💻 Building a new ui library- [Boxpack UI](https://boxpackui.com)
  
 ### Find me elsewhere 🌎
 
