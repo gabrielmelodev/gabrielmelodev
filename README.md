@@ -1,6 +1,6 @@
 ### Hey, I'm Gabriel Melo! 👋
 
-🤓 Founder at [@seaclax](https://github.com/seaclax/) <br>
+🤓 Founder at [@seaoup](https://github.com/seaclax/) <br>
 🇧🇷 Born in Federal District, Brazil <br>
 
 
