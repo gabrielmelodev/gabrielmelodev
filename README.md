@@ -1,12 +1,12 @@
 ### Hey, I'm Gabriel Melo! 👋
 
-🤓 Founder at [@bereades](https://github.com/bereades/) <br>
+🤓 Founder at [@bereads](https://github.com/bereads/) <br>
 🇧🇷 Born in Federal District, Brazil <br>
 
 
 ### What I'm working on 👨‍💻
 
-📚 Building new features in - [BEREADES](https://bereades.com) <br>
+📚 Building new features in - [BEREADS](https://bereads.com) <br>
 💻 Building a new ui library- [Beveres UI](https://beveresui.com)
  
 ### Find me elsewhere 🌎
