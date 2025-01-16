@@ -1,6 +1,6 @@
 ### Hey, I'm Gabriel Melo! 👋
 
-🤓 Founder at [@bereads](https://github.com/bereads/) <br>
+
 🇧🇷 Born in Federal District, Brazil <br>
 
 
