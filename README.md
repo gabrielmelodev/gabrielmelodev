@@ -4,6 +4,8 @@
 🇧🇷 Born in Federal District, Brazil <br>
 
 
+Frontend Programmer and Game Development
+
 ### What I'm working on 👨‍💻
 
 📚 Building new features in - [BEREADS](https://bereads.com) <br>
