@@ -13,5 +13,5 @@
 
 🚀 [Site](https://gabrielmelo.me) <br>
 🐦 [X](https://twitter.com/gabrielmelodev) <br>
-📸 [Instagram](https://instagram.com/gabrielmelo.dev) <br>
+📸 [Instagram](https://instagram.com/gabrielmelo.me) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmelodev) <br>
