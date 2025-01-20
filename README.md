@@ -10,7 +10,7 @@ Frontend Programmer and Game Development
 
 📚 Building new features in - [BEREADS](https://bereads.com) <br>
 💻 Building a new ui library- [Beveres UI](https://beveresui.com) <br>
-🧑🏻‍💻 building the best literary social network - [REOOK] (https://reook.com)
+🧑🏻‍💻 building the best literary social network - [REOOK](https://reook.com)
 
 ## Techs
 
