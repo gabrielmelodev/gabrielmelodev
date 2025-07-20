@@ -1,62 +1,72 @@
-### Hey, I'm Gabriel Melo! 👋
+<h1 align="center">🚀 Gabriel Melo</h1>
+<h3 align="center">Frontend Engineer • Game Dev Enthusiast • UI Architect</h3>
+<p align="center">Brasília, Brazil 🇧🇷</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FBA94C&center=true&vCenter=true&width=650&lines=Building+beautiful+products+with+code.;Designing+next-gen+UI+libraries.;Obsessed+with+performance+%26+developer+experience.;Turning+ideas+into+impactful+software.">
+</p>
 
-🇧🇷 Born in Federal District, Brazil <br>
+---
 
+## 🛠️ Projects I'm Building
 
-Frontend Programmer and Game Development
+| 🚧 Project | 💡 Description |
+|-----------|----------------|
+| 📚 [**BEREADS**](https://bereads.com) | Transformando a leitura em uma experiência social |
+| 💻 [**Beveres UI**](https://beveresui.com) | Biblioteca de UI poderosa e minimalista para devs modernos |
+| 🔥 [**REOOK**](https://reook.com) | A próxima geração de redes sociais literárias |
 
-### What I'm working on 👨‍💻
+---
 
-   📚 Building new features in - [BEREADS](https://bereads.com) <br>
-   💻 Building a new ui library- [Beveres UI](https://beveresui.com) <br>
-   🧑🏻‍💻 Building the best literary social network - [REOOK](https://reook.com)
+## ⚙️ Tech Stack
 
-## Techs
+### 🔧 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Elixir-7B2CBF?style=for-the-badge&logo=elixir&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-04D361?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FastAPI-1B873F?style=for-the-badge&logo=fastapi&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-FDB833?style=for-the-badge&logo=python&logoColor=000" />
+</p>
 
-<center>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-FF9500?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-D90429?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-1E6091?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
+</p>
 
-### Backend
+### 📱 Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff" />
+</p>
 
-<div text-align="justify">
-<img src="https://img.shields.io/badge/Elixir-20232A?style=for-the-badge&logo=elixir&logoColor=7B2CBF" />
-<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=04D361" />
-<img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=F75A68" />
-<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=FDB833" />
-<img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=1B873F" />
-</div>
+### 🗃️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-0353A4?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-04D361?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-FF8800?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
+</p>
 
-### Frontend
+---
 
-<div text-align="justify">
+## 🌎 Where to Find Me
 
-<img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=FF9500" />
-<img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=D90429" />
-<img src="https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=Javascript&logoColor=FBA94C" />
-<img src="https://img.shields.io/badge/Ts-20232A?style=for-the-badge&logo=typescript&logoColor=1E6091" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=00000" />
-</div>
+<p align="center">
+  <a href="https://gabrielmelo.me"><img src="https://img.shields.io/badge/🌐%20Website-gabrielmelo.me-000?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/gabrielmelodev"><img src="https://img.shields.io/badge/💼%20LinkedIn-GabrielMeloDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/gabrielmelodev"><img src="https://img.shields.io/badge/🐦%20X-gabrielmelodev-000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/gabrielmelo.me"><img src="https://img.shields.io/badge/📸%20Instagram-gabrielmelo.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-### Mobile
+---
 
-
-
-### Database
-
-<div text-align="justify">
-<img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=0353A4" />
-<img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=04D361" />
-<img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=mysql&logoColor=FF8800" />
-<img src="https://img.shields.io/badge/Sql Server-20232A?style=for-the-badge&logo=microsoft-sql-server&logoColor=61DAFB" />
-
-</div>
-
-</center>
- 
-### Find me elsewhere 🌎
-
-🚀 [Site](https://gabrielmelo.me) <br>
-🐦 [X](https://twitter.com/gabrielmelodev) <br>
-📸 [Instagram](https://instagram.com/gabrielmelo.me) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/gabrielmelodev) <br>
+<p align="center">
+  💬 “Code is my language. UI is my canvas. Creativity is my fuel.” <br />
+  🧠 Sempre em evolução — e sempre pronto pra próxima grande ideia.
+</p>
